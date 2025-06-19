@@ -1,0 +1,92 @@
+[
+    {
+        "id": "01",
+        "folder": "jaffna",
+        "files": [
+            {
+                "name": "temple",
+                "content": "This is the Nallur temple. \nIt is located in Jaffna North. \nEvery year many tourists visit this place."
+            },
+            {
+                "name": "beach",
+                "content": "This is the KKS Beach. \nIt is located in Kankesanthurai. \nThis is a wonderful place in Jaffna."
+            },
+            {
+                "name": "historical",
+                "content": "This is the Nilavarai Well. \nIt is located in Puttur. \nIt is known for its deep natural underground water."
+            }
+        ]
+    },
+    {
+        "id": "02",
+        "folder": "kandy",
+        "files": [
+            {
+                "name": "temple",
+                "content": "This is the Temple of the Tooth Relic. \nLocated in the city of Kandy. \nIt is a sacred site for Buddhists."
+            },
+            {
+                "name": "lake",
+                "content": "This is the Kandy Lake. \nIt is located next to the temple. \nA peaceful spot for evening walks."
+            },
+            {
+                "name": "garden",
+                "content": "This is the Peradeniya Botanical Garden. \nFamous for its collection of orchids and palm trees."
+            }
+        ]
+    },
+    {
+        "id": "03",
+        "folder": "galle",
+        "files": [
+            {
+                "name": "fort",
+                "content": "This is the Galle Fort. \nBuilt by the Portuguese and Dutch. \nIt is a UNESCO World Heritage Site."
+            },
+            {
+                "name": "beach",
+                "content": "This is Unawatuna Beach. \nA beautiful sandy beach ideal for swimming and snorkeling."
+            },
+            {
+                "name": "museum",
+                "content": "This is the National Maritime Museum. \nLocated inside Galle Fort. \nDisplays artifacts related to sea life and trade."
+            }
+        ]
+    },
+    {
+        "id": "04",
+        "folder": "nuwaraeliya",
+        "files": [
+            {
+                "name": "park",
+                "content": "This is Victoria Park. \nLocated in Nuwara Eliya town. \nPopular for flowers and relaxing walks."
+            },
+            {
+                "name": "mountain",
+                "content": "This is Pidurutalagala. \nThe highest mountain in Sri Lanka. \nAccess is restricted but visible from the town."
+            },
+            {
+                "name": "garden",
+                "content": "This is Hakgala Botanical Garden. \nLocated near Nuwara Eliya. \nKnown for roses, orchids, and cool climate plants."
+            }
+        ]
+    },
+    {
+        "id": "05",
+        "folder": "trincomalee",
+        "files": [
+            {
+                "name": "temple",
+                "content": "This is Koneswaram Temple. \nLocated on Swami Rock in Trincomalee. \nOverlooks the Indian Ocean and has historic value."
+            },
+            {
+                "name": "beach",
+                "content": "This is Nilaveli Beach. \nA pristine white-sand beach ideal for diving and relaxing."
+            },
+            {
+                "name": "harbor",
+                "content": "This is Trincomalee Natural Harbor. \nOne of the world's finest deep-water harbors. \nUsed for both commercial and military purposes."
+            }
+        ]
+    }
+]
