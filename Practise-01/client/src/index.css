@@ -1,31 +1,7 @@
 @import "tailwindcss";
 
 
-/* Define custom CSS variables */
-.light {
-    --navbar: #005f61;
-    --body: #ffffff;
-    --card: gray;
-}
-
-.dark {
-    --navbar: #00293d;
-    --body: #343f54;
-    --card: #ffffff;
-}
-
-.bg-navbar {
-    background-color: var(--navbar);
-}
-
-.bg-body {
-    background-color: var(--body);
-}
-
-.bg-card {
-    background-color: var(--card);
-}
-
+@custom-variant dark (&:where(.dark, .dark *));
 
 .mycontainer {
     @apply py-1 px-5 md:py-2 md:px-8
