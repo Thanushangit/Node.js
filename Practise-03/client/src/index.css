@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+.mycontainer {
+    @apply py-1 px-5 md:py-2 md:px-8
+}
+
+.smooth-transition {
+  @apply transition-colors duration-500;
+}

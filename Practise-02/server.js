@@ -6,7 +6,10 @@ const app=express();
 
 // in here i connect my mongodb 
 
-connectDB();
+connectDB(); 
+
+// data understanding middleware 
+ app.use(express.json())
 
 app.use('/movies',movieRouter)
 
