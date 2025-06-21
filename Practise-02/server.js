@@ -1,7 +1,12 @@
 import express from 'express';
 import movieRouter from './routes/movies.routes.js'
+import connectDB from './lib/DB.js';
 
 const app=express();
+
+// in here i connect my mongodb 
+
+connectDB();
 
 app.use('/movies',movieRouter)
 

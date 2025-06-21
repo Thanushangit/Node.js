@@ -16,3 +16,4 @@ export const updateMovie=(req,res)=>{
 export const deleteMovie=(req,res)=>{
     res.json({"message":"delete a particular movie"})
 }
+
